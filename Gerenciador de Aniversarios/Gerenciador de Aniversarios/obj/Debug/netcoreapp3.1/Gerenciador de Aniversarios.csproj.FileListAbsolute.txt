@@ -1,0 +1,13 @@
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\bin\Debug\netcoreapp3.1\Gerenciador de Aniversarios.exe
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\bin\Debug\netcoreapp3.1\Gerenciador de Aniversarios.deps.json
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\bin\Debug\netcoreapp3.1\Gerenciador de Aniversarios.runtimeconfig.json
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\bin\Debug\netcoreapp3.1\Gerenciador de Aniversarios.runtimeconfig.dev.json
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\bin\Debug\netcoreapp3.1\Gerenciador de Aniversarios.dll
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\bin\Debug\netcoreapp3.1\Gerenciador de Aniversarios.pdb
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.csprojAssemblyReference.cache
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.AssemblyInfoInputs.cache
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.AssemblyInfo.cs
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.dll
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.pdb
+C:\Users\Gabriel Cunha\Desktop\Programas c#\Gerenciador de Aniversarios\Gerenciador de Aniversarios\obj\Debug\netcoreapp3.1\Gerenciador de Aniversarios.genruntimeconfig.cache
