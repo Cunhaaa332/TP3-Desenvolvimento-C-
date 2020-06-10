@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj": {}
+    "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\TP3-Fundamentos C#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj": {
+    "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\TP3-Fundamentos C#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj",
+        "projectUniqueName": "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\TP3-Fundamentos C#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj",
         "projectName": "Gerenciador de Aniversarios",
-        "projectPath": "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj",
+        "projectPath": "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\TP3-Fundamentos C#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios.csproj",
         "packagesPath": "C:\\Users\\Gabriel Cunha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\obj\\",
+        "outputPath": "C:\\Users\\Gabriel Cunha\\Desktop\\Programas c#\\TP3-Fundamentos C#\\Gerenciador de Aniversarios\\Gerenciador de Aniversarios\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

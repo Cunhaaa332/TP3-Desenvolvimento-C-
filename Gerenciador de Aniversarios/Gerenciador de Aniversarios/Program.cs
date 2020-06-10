@@ -85,29 +85,26 @@ namespace Gerenciador_de_Aniversarios {
 
             if (Dados.pessoasEncontradas.Count == 0) {
                 Console.WriteLine("Nenhum usuario Encontrado");
-                VoltarProMenu();
-            }
-
-            Console.WriteLine("");
-            Console.WriteLine("Pesssoas Encontradas: ");
-
-            foreach (var pessoa in Dados.pessoasEncontradas) {
-                Console.WriteLine(i + " - " + pessoa.GetNome() + " " + pessoa.GetSobreNome());
-                i++;
-            }
-
-            Console.WriteLine("");
-            Console.WriteLine("Digite o numero correspondente a pessoa que deseja ter mais detalhes: ");
-            int escolha = int.Parse(Console.ReadLine());
-
-            if (escolha > i || escolha < 0) {
-                Console.WriteLine("Escolha errada amigao!");
             } else {
-                Console.WriteLine(Dados.pessoasEncontradas.ElementAt(escolha));
-            }
+                Console.WriteLine("");
+                Console.WriteLine("Pesssoas Encontradas: ");
 
+                foreach (var pessoa in Dados.pessoasEncontradas) {
+                    Console.WriteLine(i + " - " + pessoa.GetNome() + " " + pessoa.GetSobreNome());
+                    i++;
+                }
+
+                Console.WriteLine("");
+                Console.WriteLine("Digite o numero correspondente a pessoa que deseja ter mais detalhes: ");
+                int escolha = int.Parse(Console.ReadLine());
+
+                if (escolha > i || escolha < 0) {
+                    Console.WriteLine("Escolha errada amigao!");
+                } else {
+                    Console.WriteLine(Dados.pessoasEncontradas.ElementAt(escolha));
+                }
+            }                     
             VoltarProMenu();
-
         }
 
         public static void VoltarProMenu() {
